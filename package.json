@@ -1,0 +1,24 @@
+{
+  "name": "noteboard",
+  "version": "1.0.0",
+  "description": "Idea noteboard",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyTrejo/noteBoard.git"
+  },
+  "author": "Tony Trejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonyTrejo/noteBoard/issues"
+  },
+  "homepage": "https://github.com/TonyTrejo/noteBoard#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.3.16"
+  }
+}
